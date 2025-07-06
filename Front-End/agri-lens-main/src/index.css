@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Century+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Livvic:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Johnston+Demo&display=swap');
+@import "tailwindcss";
+:root {
+  font-family: 'Johnston Demo', Inter, system-ui, Avenir, Helvetica, Arial, sans-serif, 'Passions Conflict', 'Century Gothic', Livvic;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+body::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
+}
+
+
+
+
+
+
