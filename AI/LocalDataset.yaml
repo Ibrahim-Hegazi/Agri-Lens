@@ -1,0 +1,20 @@
+# Dataset paths (updated for local Windows environment)
+path: C:\Users\Ibrahim_Hegazi\Desktop\Graduation_Project\Final Stratified Dataset\Stratified Dataset
+train: C:\Users\Ibrahim_Hegazi\Desktop\Graduation_Project\Final Stratified Dataset\Stratified Dataset\train\images
+val: C:\Users\Ibrahim_Hegazi\Desktop\Graduation_Project\Final Stratified Dataset\Stratified Dataset\valid\images
+test: C:\Users\Ibrahim_Hegazi\Desktop\Graduation_Project\Final Stratified Dataset\Stratified Dataset\test\images
+# Number of classes
+nc: 10
+
+# Class names (preserved from original)
+names:
+  0: angular_leafspot
+  1: anthracnose_fruit_rot
+  2: blossom_blight
+  3: gray_mold
+  4: leaf_spot
+  5: powdery_mildew_fruit
+  6: powdery_mildew_leaf
+  7: Healthy Flower
+  8: Healthy Leaf
+  9: Healthy Strawberry
