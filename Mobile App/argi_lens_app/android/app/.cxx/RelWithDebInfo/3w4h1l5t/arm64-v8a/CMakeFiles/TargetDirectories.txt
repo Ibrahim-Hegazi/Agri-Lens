@@ -1,0 +1,2 @@
+D:/Agri-Lens-App/argi_lens_app/android/app/.cxx/RelWithDebInfo/3w4h1l5t/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Agri-Lens-App/argi_lens_app/android/app/.cxx/RelWithDebInfo/3w4h1l5t/arm64-v8a/CMakeFiles/rebuild_cache.dir
