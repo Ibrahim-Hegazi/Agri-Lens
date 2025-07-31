@@ -251,7 +251,7 @@ The vertical farming backend is built with ASP.NET Core and SQL Server, designed
 
 ---
 
-## 🏗️ System Design
+#### 🏗️ System Design
 
 - **Architecture Pattern**: MVC (Model-View-Controller)
 - **ORM**: Entity Framework Core (Code-First)
