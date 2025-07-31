@@ -13,7 +13,7 @@ Agri Lens is a smart farming system that leverages embedded systems and AI to im
 - [🎯 Project Goals](#-project-goals)
 - [🛠️ System Architecture](#️-system-architecture)
 - [⚙️ How It Works](#️-how-it-works)
-- [🧠 AI-Based Disease Detection](#️-ai-based-disease-detection)
+- [🧠 AI Based Disease Detection](#️-ai-based-disease-detection)
 - [🧰 Technologies Used](#-technologies-used)
 - [🌟 Key Features](#-key-features)
 - [🧠 Challenges & Solutions](#-challenges--solutions)
@@ -105,7 +105,7 @@ The system consists of two main circuits and a structured control box built from
 
 ---
 
-## 🧠 AI-Based Disease Detection
+## 🧠 AI Based Disease Detection
 
 To enable early and precise detection of strawberry plant diseases, we developed a custom AI pipeline using **YOLOv11** with **instance segmentation**. This model provides pixel-level disease localization, enabling timely and targeted interventions.
 
