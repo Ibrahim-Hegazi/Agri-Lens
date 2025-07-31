@@ -29,7 +29,7 @@ Agri Lens is a smart farming system that leverages embedded systems and AI to im
 
 This project was developed by the **Agri Lens Team**, composed of 10 dedicated students from the Computer Science Department at Mansoura University.
 
-### Team Members
+#### Team Members
 (Add GitHub or LinkedIn profiles if desired)
 - Contributor 1  
 - Contributor 2  
@@ -42,7 +42,7 @@ This project was developed by the **Agri Lens Team**, composed of 10 dedicated s
 - Contributor 9  
 - Contributor 10  
 
-### Special Thanks
+#### Special Thanks
 - **[External Hardware Consultant]** – Supported the design and implementation of the mechanical and sensor integration.  
 - **[External Backend Consultant]** – Assisted in backend architecture and Firebase integration.
 
@@ -67,13 +67,13 @@ Agri Lens is a smart farming prototype designed to assist farmers in managing cr
 
 The system consists of two main circuits and a structured control box built from wood with three planting cells:
 
-### 📷 Circuit 1 – Image Capture Module
+#### 📷 Circuit 1 – Image Capture Module
 - ESP32-CAM for capturing images  
 - Stepper Motor mounted on a metal rod for horizontal camera movement  
 - Motor Driver (e.g., ULN2003) to control motor  
 - Sends plant images to the backend for AI analysis  
 
-### 💧 Circuit 2 – Irrigation & Environmental Monitoring Module
+#### 💧 Circuit 2 – Irrigation & Environmental Monitoring Module
 - ESP32 Microcontroller  
 - 3 × Soil Moisture Sensors (one per cell)  
 - 3 × Water Pumps (one per cell)  
@@ -85,24 +85,24 @@ The system consists of two main circuits and a structured control box built from
 
 ## ⚙️ How It Works
 
-### Sensor Data Collection
+#### Sensor Data Collection
 - Soil moisture sensors monitor water levels in each cell  
 - DHT11 measures temperature and humidity  
 
-### Automated Irrigation
+#### Automated Irrigation
 - Water pumps activate individually based on real-time moisture levels  
 - Controlled through ESP32 logic with thresholds  
 
-### Plant Image Capture
+#### Plant Image Capture
 - The ESP32-CAM is mounted on a motorized rail  
 - Moves across all cells to capture top-view images of each plant  
 
-### AI-Based Disease Detection
+#### AI-Based Disease Detection
 - Captured images are sent to an AI model  
 - Focused on detecting strawberry leaf diseases  
 - Prediction results are stored in the backend  
 
-### Control Dashboard (Future Integration)
+#### Control Dashboard (Future Integration)
 - Users can monitor readings and receive alerts via a mobile/web interface  
 
 ---
@@ -113,7 +113,7 @@ To enable early and precise detection of strawberry plant diseases, we developed
 
 ---
 
-### 🔍 Why YOLOv11?
+#### 🔍 Why YOLOv11?
 
 - **High Accuracy** in identifying diseased regions  
 - **Instance Segmentation** for detailed mask-level predictions  
@@ -127,9 +127,9 @@ To enable early and precise detection of strawberry plant diseases, we developed
 
 ---
 
-### 🧪 AI Pipeline Overview
+#### 🧪 AI Pipeline Overview
 
-#### 📌 1. Requirement Analysis & Data Preparation
+##### 📌 1. Requirement Analysis & Data Preparation
 
 - **Diseases Targeted**: *Powdery Mildew*, *Gray Mold*, *Anthracnose*, etc.  
 - **Data**: Healthy and diseased leaf images collected from open datasets and web scraping (via FastAI)  
@@ -138,7 +138,7 @@ To enable early and precise detection of strawberry plant diseases, we developed
 
 ---
 
-#### 📌 2. Model Selection
+##### 📌 2. Model Selection
 
 - **Architectures Compared**:
   - **YOLOv8-seg**: 151 layers, 3.4M parameters  
@@ -148,7 +148,7 @@ To enable early and precise detection of strawberry plant diseases, we developed
 
 ---
 
-#### 📌 3. Training & Hyperparameter Tuning
+##### 📌 3. Training & Hyperparameter Tuning
 
 - **Optimizer**: SGD with momentum (0.937)  
 - **Learning Rate**: 0.01  
@@ -159,7 +159,7 @@ Trained to detect and segment individual leaves with high precision.
 
 ---
 
-#### 📌 4. Evaluation Summary
+##### 📌 4. Evaluation Summary
 
 | Metric         | YOLOv8 | YOLOv11 |
 |----------------|--------|---------|
@@ -172,7 +172,7 @@ Trained to detect and segment individual leaves with high precision.
 
 ---
 
-#### 📌 5. Deployment
+##### 📌 5. Deployment
 
 - **Backend**: Deployed via **FastAPI**  
 - **Flow**:  
@@ -183,7 +183,7 @@ Trained to detect and segment individual leaves with high precision.
 
 ## 📱 Flutter Application Implementation
 
-### Planning and Requirement Analysis
+#### Planning and Requirement Analysis
 
 **Objective:**  
 Define scope and core functionalities of the Agri Lens app for monitoring plant health via sensors and a movable camera.
@@ -197,7 +197,7 @@ Define scope and core functionalities of the Agri Lens app for monitoring plant 
 
 ---
 
-### UI/UX Design
+#### UI/UX Design
 
 **Objective:**  
 Create a clean, user-friendly interface optimized for mobile.
@@ -210,7 +210,7 @@ Create a clean, user-friendly interface optimized for mobile.
 
 ---
 
-### Development
+#### Development
 
 **Objective:**  
 Build the app using Flutter, integrating with Firebase and an API for real-time data and health diagnostics.
@@ -224,7 +224,7 @@ Build the app using Flutter, integrating with Firebase and an API for real-time 
 
 ---
 
-### Asynchronous Operations
+#### Asynchronous Operations
 
 **Handled Via:**
 - `async/await` for non-blocking API calls and Firebase operations.
@@ -233,7 +233,7 @@ Build the app using Flutter, integrating with Firebase and an API for real-time 
 
 ---
 
-### Libraries Used
+#### Libraries Used
 
 - **Firebase Core/Auth/Firestore/Storage** – Backend services and real-time data.
 - **flutter_bloc / bloc** – Cubit-based state management.
@@ -244,6 +244,57 @@ Build the app using Flutter, integrating with Firebase and an API for real-time 
 - **Cached Network Image** – Efficient image display.
 - **FL Chart** – Trend visualization.
 
+
+### 📦 Backend Architecture Overview
+
+The vertical farming backend is built with ASP.NET Core and SQL Server, designed to support automation, monitoring, and data analysis for smart farming. The system manages farms, crops, users, sensors, alerts, and AI analysis in a scalable and modular manner.
+
+---
+
+## 🏗️ System Design
+
+- **Architecture Pattern**: MVC (Model-View-Controller)
+- **ORM**: Entity Framework Core (Code-First)
+- **API**: RESTful with Swagger documentation
+- **Core Layers**: Controllers, Services, Models, Data Access
+
+---
+
+#### 🔧 Core Modules
+
+- **Crop Controller**: Handles CRUD for crop entities.
+- **Farm Controller**: Manages farm registration and links with users/crops.
+- **Sensor Controller**: Registers sensors and handles real-time data uploads.
+- **Disease Alert Controller**: Monitors and alerts on disease risks using sensor thresholds and AI.
+- **User Controller**: Manages roles (Admin, Farmer, Analyst), authentication, and farm-user assignments.
+- **AI Module**: Analyzes sensor data for predictive alerts.
+- **Database**: Normalized SQL Server schema with relations and EF migrations.
+- **Validation**: Built-in with annotations and global exception handling.
+
+---
+
+#### 📊 Monitoring & Documentation
+
+- Real-time readiness via SignalR
+- Logging with Serilog
+- Swagger UI for API usage and testing
+
+---
+
+#### 🚀 Benefits
+
+- Modular, maintainable, and scalable
+- Secure endpoints
+- Extensible for AI/ML, weather APIs, and advanced dashboards
+
+---
+
+#### 🔮 Future Plans
+
+- Integrate ML.NET for crop predictions
+- Add weather API for smarter decisions
+- Use GraphQL for flexible queries
+- Enhance dashboard UI with analytics
 
 
 ## 🧰 Technologies Used
@@ -278,58 +329,6 @@ Build the app using Flutter, integrating with Firebase and an API for real-time 
 | Real-time updates to the mobile app       | Firebase used for seamless data syncing                  |
 
 ---
-
-### 📦 Backend Architecture Overview
-
-The vertical farming backend is built with ASP.NET Core and SQL Server, designed to support automation, monitoring, and data analysis for smart farming. The system manages farms, crops, users, sensors, alerts, and AI analysis in a scalable and modular manner.
-
----
-
-### 🏗️ System Design
-
-- **Architecture Pattern**: MVC (Model-View-Controller)
-- **ORM**: Entity Framework Core (Code-First)
-- **API**: RESTful with Swagger documentation
-- **Core Layers**: Controllers, Services, Models, Data Access
-
----
-
-### 🔧 Core Modules
-
-- **Crop Controller**: Handles CRUD for crop entities.
-- **Farm Controller**: Manages farm registration and links with users/crops.
-- **Sensor Controller**: Registers sensors and handles real-time data uploads.
-- **Disease Alert Controller**: Monitors and alerts on disease risks using sensor thresholds and AI.
-- **User Controller**: Manages roles (Admin, Farmer, Analyst), authentication, and farm-user assignments.
-- **AI Module**: Analyzes sensor data for predictive alerts.
-- **Database**: Normalized SQL Server schema with relations and EF migrations.
-- **Validation**: Built-in with annotations and global exception handling.
-
----
-
-### 📊 Monitoring & Documentation
-
-- Real-time readiness via SignalR
-- Logging with Serilog
-- Swagger UI for API usage and testing
-
----
-
-### 🚀 Benefits
-
-- Modular, maintainable, and scalable
-- Secure endpoints
-- Extensible for AI/ML, weather APIs, and advanced dashboards
-
----
-
-### 🔮 Future Plans
-
-- Integrate ML.NET for crop predictions
-- Add weather API for smarter decisions
-- Use GraphQL for flexible queries
-- Enhance dashboard UI with analytics
-
 
 
 ## 🙌 Acknowledgments
