@@ -14,6 +14,7 @@ Agri Lens is a smart farming system that leverages embedded systems and AI to im
 - [🛠️ System Architecture](#️-system-architecture)
 - [⚙️ How It Works](#️-how-it-works)
 - [🧠 AI Based Disease Detection](#ai-based-disease-detection)
+- [📱 Flutter Application Implementation](#flutter-application-implementation)
 - [🧰 Technologies Used](#-technologies-used)
 - [🌟 Key Features](#-key-features)
 - [🧠 Challenges & Solutions](#-challenges--solutions)
@@ -179,6 +180,68 @@ Trained to detect and segment individual leaves with high precision.
 
 ---
 
+## 📱 Flutter Application Implementation
+
+### Planning and Requirement Analysis
+
+**Objective:**  
+Define scope and core functionalities of the Agri Lens app for monitoring plant health via sensors and a movable camera.
+
+**Key Features Identified:**
+- **User Authentication:** Splash screen, onboarding, login, Google sign-in, change password.
+- **Monitoring Dashboard:** Plant cells with health %, room temp & humidity, cell-specific details with image and data.
+- **Search & Camera Control:** Search by cell, schedule camera intervals, and manual image capture for ML-based analysis.
+- **Reports & Notifications:** Daily health reports with charts, enable/disable alerts.
+- **Profile & Settings:** Edit profile, app info, feedback, rating options.
+
+---
+
+### UI/UX Design
+
+**Objective:**  
+Create a clean, user-friendly interface optimized for mobile.
+
+**Highlights:**
+- Consistent color scheme and iconography.
+- Bottom navigation bar (Home, Timer, Camera, Reports, Settings).
+- Data visualized through cards, images, and animated charts.
+- Scalable UI elements for accessibility.
+
+---
+
+### Development
+
+**Objective:**  
+Build the app using Flutter, integrating with Firebase and an API for real-time data and health diagnostics.
+
+**Technologies Used:**
+- **State Management:** Cubit (Flutter Bloc) architecture to separate UI and business logic.
+- **Backends:**
+  - **Firebase:** Auth, sensor data, camera settings, notifications.
+  - **REST API (Dio):** Upload images, receive health analysis and daily reports.
+- **Local Storage:** SharedPreferences for tokens, camera settings, user preferences.
+
+---
+
+### Asynchronous Operations
+
+**Handled Via:**
+- `async/await` for non-blocking API calls and Firebase operations.
+- `Future.delayed` for UI transitions (e.g., splash screen).
+- Loading indicators shown during login, uploads, and data fetches.
+
+---
+
+### Libraries Used
+
+- **Firebase Core/Auth/Firestore/Storage** – Backend services and real-time data.
+- **flutter_bloc / bloc** – Cubit-based state management.
+- **Dio** – REST API integration.
+- **SharedPreferences** – Lightweight local storage.
+- **Image Picker / Camera** – Manual photo capture.
+- **Datetime Picker** – Camera interval settings.
+- **Cached Network Image** – Efficient image display.
+- **FL Chart** – Trend visualization.
 
 
 
