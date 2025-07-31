@@ -13,7 +13,7 @@ Agri Lens is a smart farming system that leverages embedded systems and AI to im
 - [🎯 Project Goals](#-project-goals)
 - [🛠️ System Architecture](#️-system-architecture)
 - [⚙️ How It Works](#️-how-it-works)
-- [🧠 AI-Based Disease Detection](#️ai-based-disease-detection)
+- [🧠 AI-Based Disease Detection](#️-ai-based-disease-detection)
 - [🧰 Technologies Used](#-technologies-used)
 - [🌟 Key Features](#-key-features)
 - [🧠 Challenges & Solutions](#-challenges--solutions)
