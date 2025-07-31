@@ -13,6 +13,7 @@ Agri Lens is a smart farming system that leverages embedded systems and AI to im
 - [🎯 Project Goals](#-project-goals)
 - [🛠️ System Architecture](#️-system-architecture)
 - [⚙️ How It Works](#️-how-it-works)
+- [🧪 AI Pipeline Overview](#️-ai-pipeline-overview)
 - [🧰 Technologies Used](#-technologies-used)
 - [🌟 Key Features](#-key-features)
 - [🧠 Challenges & Solutions](#-challenges--solutions)
@@ -103,6 +104,83 @@ The system consists of two main circuits and a structured control box built from
 - Users can monitor readings and receive alerts via a mobile/web interface  
 
 ---
+
+## 🧠 AI-Based Disease Detection
+
+To enable early and precise detection of strawberry plant diseases, we developed a custom AI pipeline using **YOLOv11** with **instance segmentation**. This model provides pixel-level disease localization, enabling timely and targeted interventions.
+
+---
+
+### 🔍 Why YOLOv11?
+
+- **High Accuracy** in identifying diseased regions  
+- **Instance Segmentation** for detailed mask-level predictions  
+- **Early Detection** of symptoms at initial growth stages  
+
+**Performance on our custom dataset:**
+
+- 🎯 **Box mAP@50**: 76.6%  
+- 🎯 **Mask mAP@50**: 76.8%  
+- ✅ *Outperforms YOLOv8 in all evaluated metrics*
+
+---
+
+### 🧪 AI Pipeline Overview
+
+#### 📌 1. Requirement Analysis & Data Preparation
+
+- **Diseases Targeted**: *Powdery Mildew*, *Gray Mold*, *Anthracnose*, etc.  
+- **Data**: Healthy and diseased leaf images collected from open datasets and web scraping (via FastAI)  
+- **Annotation**: Pixel-wise masks labeled in YOLO format using **Roboflow**  
+- **Augmentation**: Flipping, rotation, shifting, and scaling to diversify samples  
+
+---
+
+#### 📌 2. Model Selection
+
+- **Architectures Compared**:
+  - **YOLOv8-seg**: 151 layers, 3.4M parameters  
+  - **YOLOv11-seg**: 253 layers, 22M parameters  
+
+✅ **Final Choice**: YOLOv11-seg, offering better detection and segmentation quality.
+
+---
+
+#### 📌 3. Training & Hyperparameter Tuning
+
+- **Optimizer**: SGD with momentum (0.937)  
+- **Learning Rate**: 0.01  
+- **Dropout**: 0.0  
+- **Patience**: 100 epochs  
+
+Trained to detect and segment individual leaves with high precision.
+
+---
+
+#### 📌 4. Evaluation Summary
+
+| Metric         | YOLOv8 | YOLOv11 |
+|----------------|--------|---------|
+| Box Precision  | 0.902  | 0.953   |
+| Box mAP@50     | 0.703  | 0.766   |
+| Mask mAP@50    | 0.703  | 0.768   |
+| Mask mAP@50-95 | 0.569  | 0.657   |
+
+✅ **Conclusion**: YOLOv11 achieved consistently better results across all detection and segmentation metrics.
+
+---
+
+#### 📌 5. Deployment
+
+- **Backend**: Deployed via **FastAPI**  
+- **Flow**:  
+  ESP32-CAM → FastAPI API → YOLOv11 Model → Predictions stored in Firebase  
+- **Upcoming**: Flutter-based dashboard for real-time health monitoring and alerts
+
+---
+
+
+
 
 ## 🧰 Technologies Used
 
