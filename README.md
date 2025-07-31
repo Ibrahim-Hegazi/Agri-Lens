@@ -15,6 +15,7 @@ Agri Lens is a smart farming system that leverages embedded systems and AI to im
 - [⚙️ How It Works](#️-how-it-works)
 - [🧠 AI Based Disease Detection](#ai-based-disease-detection)
 - [📱 Flutter Application Implementation](#-flutter-application-implementation)
+- [📦 Backend Architecture Overview](#-backend-architecture-overview)
 - [🧰 Technologies Used](#-technologies-used)
 - [🌟 Key Features](#-key-features)
 - [🧠 Challenges & Solutions](#-challenges--solutions)
@@ -277,6 +278,59 @@ Build the app using Flutter, integrating with Firebase and an API for real-time 
 | Real-time updates to the mobile app       | Firebase used for seamless data syncing                  |
 
 ---
+
+### 📦 Backend Architecture Overview
+
+The vertical farming backend is built with ASP.NET Core and SQL Server, designed to support automation, monitoring, and data analysis for smart farming. The system manages farms, crops, users, sensors, alerts, and AI analysis in a scalable and modular manner.
+
+---
+
+### 🏗️ System Design
+
+- **Architecture Pattern**: MVC (Model-View-Controller)
+- **ORM**: Entity Framework Core (Code-First)
+- **API**: RESTful with Swagger documentation
+- **Core Layers**: Controllers, Services, Models, Data Access
+
+---
+
+### 🔧 Core Modules
+
+- **Crop Controller**: Handles CRUD for crop entities.
+- **Farm Controller**: Manages farm registration and links with users/crops.
+- **Sensor Controller**: Registers sensors and handles real-time data uploads.
+- **Disease Alert Controller**: Monitors and alerts on disease risks using sensor thresholds and AI.
+- **User Controller**: Manages roles (Admin, Farmer, Analyst), authentication, and farm-user assignments.
+- **AI Module**: Analyzes sensor data for predictive alerts.
+- **Database**: Normalized SQL Server schema with relations and EF migrations.
+- **Validation**: Built-in with annotations and global exception handling.
+
+---
+
+### 📊 Monitoring & Documentation
+
+- Real-time readiness via SignalR
+- Logging with Serilog
+- Swagger UI for API usage and testing
+
+---
+
+### 🚀 Benefits
+
+- Modular, maintainable, and scalable
+- Secure endpoints
+- Extensible for AI/ML, weather APIs, and advanced dashboards
+
+---
+
+### 🔮 Future Plans
+
+- Integrate ML.NET for crop predictions
+- Add weather API for smarter decisions
+- Use GraphQL for flexible queries
+- Enhance dashboard UI with analytics
+
+
 
 ## 🙌 Acknowledgments
 
