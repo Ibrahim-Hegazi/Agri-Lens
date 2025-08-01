@@ -245,6 +245,21 @@ Build the app using Flutter, integrating with Firebase and an API for real-time 
 - **FL Chart** – Trend visualization.
 
 
+---
+
+### 🌐 Frontend Introduction Page
+
+The frontend component of *Agri Lens* includes a simple and informative **React-based introduction page** that presents an overview of the system, highlights its features, and provides an entry point for users and stakeholders to explore the project.
+
+This frontend was also showcased during our participation in the **Hult Prize competition**, helping us present the concept and technical design of our smart farming system to judges and attendees in a clear and engaging manner.
+
+#### 🔗 Project Link
+
+You can view the frontend project here: [Agri Lens Frontend Repository](https://ibrahimalbanawy.github.io/agri-lens/)
+
+---
+
+
 ### 📦 Backend Architecture Overview
 
 The vertical farming backend is built with ASP.NET Core and SQL Server, designed to support automation, monitoring, and data analysis for smart farming. The system manages farms, crops, users, sensors, alerts, and AI analysis in a scalable and modular manner.
