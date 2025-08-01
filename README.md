@@ -256,7 +256,7 @@ This frontend was also showcased during our participation in the **Hult Prize co
 
 #### 🔗 Project Link
 
-You can view the frontend project here: [Agri Lens Frontend Repository](https://ibrahimalbanawy.github.io/agri-lens/)
+You can view the frontend project here: [Agri Lens Frontend](https://ibrahimalbanawy.github.io/agri-lens/)
 
 ---
 
