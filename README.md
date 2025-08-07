@@ -388,9 +388,9 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 ---
 
-### 🛠️ Hardware Setup
+### 🛠️ Hardware Images
 
-![Hardware Build](./media/hardware-build.jpg)
+
 
 ---
 
@@ -399,12 +399,9 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 #### 🔧 Hardware Demo
 📹 [Watch the hardware demo](./AgriLens%20Documentations%20and%20Presentations/Media/Hardware%20Demo.mp4)
 
-[![Hardware Demo Thumbnail](./media/hardware-demo-thumbnail.png)](./media/hardware-demo.mp4)
 
 #### 📱 Flutter App Demo
 📹 [Watch the Flutter app demo](./AgriLens%20Documentations%20and%20Presentations/Media/Flutter%20Demo.mp4)
-
-[![Flutter App Demo Thumbnail](./media/flutter-demo-thumbnail.png)](./media/flutter-demo.mp4)
 
 ---
 
