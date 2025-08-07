@@ -31,11 +31,11 @@ Agri Lens is a smart farming system that leverages embedded systems and AI to im
 This project was developed by the **Agri Lens Team**, composed of 10 dedicated students from the Computer Science Department at Mansoura University.
 
 #### Team Members
-* [Ibrahim Hegazi](https://github.com/Ibrahim-Hegazi)(Team Leader and AI Engineer)
+* [Ibrahim Hegazi](https://www.linkedin.com/in/ibrahim-hegazi/)(Team Leader and AI Engineer)
 
-* [Ibrahim Hegazi](https://github.com/Ibrahim-Hegazi)(Data Visualization)
+* [Ibrahim Al Banawy](https://www.linkedin.com/in/ibrahim-al-banawy/)(Front End Developer and Hardware Expert)
 
-* [Mahmoud Osama](https://github.com/MahmoudOsamax)(EDA)
+* [Basel Elazaly](https://www.linkedin.com/in/basel-elazaly-02b132220/)(Flutter Developer)
 
 * [Yousef Elsbaey](https://github.com/joalsebaey)(Project Insights, Story Telling)
 
