@@ -397,7 +397,7 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 ### 🎥 Demo Videos
 
 #### 🔧 Hardware Demo
-📹 [Watch the hardware demo](./AgriLens%20Documentations%20and%20Presentations/media/hardware-demo.mp4)
+📹 [Watch the hardware demo](./AgriLens%20Documentations%20and%20Presentations/Media/Hardware%20Demo.mp4)
 
 [![Hardware Demo Thumbnail](./media/hardware-demo-thumbnail.png)](./media/hardware-demo.mp4)
 
