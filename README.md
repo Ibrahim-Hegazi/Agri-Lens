@@ -52,7 +52,7 @@ This project was developed by the **Agri Lens Team**, composed of 10 dedicated s
 * [Mohamed Tharwat](https://www.linkedin.com/in/mohamed-tharwat-5bbb05203/)(UI/UX Designer) 
 
 #### Special Thanks
-* [Mohamed Tharwat](https://www.linkedin.com/in/sohil-abuzeid-b8001a239/)(Back End Developer) **[External Backend Consultant]** 
+* [سُهَيْل مُحَمَّدُ](https://www.linkedin.com/in/sohil-abuzeid-b8001a239/)(Back End Developer) **[External Backend Consultant]** 
 - **[External Hardware Consultant]** – Supported the design and implementation of the mechanical and sensor integration.  
 - **[External Backend Consultant]** – Assisted in backend architecture and Firebase integration.
 
