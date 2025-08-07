@@ -37,7 +37,7 @@ This project was developed by the **Agri Lens Team**, composed of 10 dedicated s
 
 * [Basel Elazaly](https://www.linkedin.com/in/basel-elazaly-02b132220/)(Flutter Developer)
 
-* [Yousef Elsbaey](https://github.com/joalsebaey)(Project Insights, Story Telling)
+* [Abdelaleem Mohamed](https://www.linkedin.com/in/abdelaleem-mohammed-914586223/)(Business Analyst)
 
 * [Ammar Yasser](https://github.com/Ammaryasser4)(Data Visualization)
 
