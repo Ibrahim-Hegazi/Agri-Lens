@@ -402,7 +402,7 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 [![Hardware Demo Thumbnail](./media/hardware-demo-thumbnail.png)](./media/hardware-demo.mp4)
 
 #### 📱 Flutter App Demo
-📹 [Watch the Flutter app demo](./media/flutter-demo.mp4)
+📹 [Watch the Flutter app demo](./AgriLens%20Documentations%20and%20Presentations/Media/Flutter%20Demo.mp4)
 
 [![Flutter App Demo Thumbnail](./media/flutter-demo-thumbnail.png)](./media/flutter-demo.mp4)
 
