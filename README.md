@@ -39,11 +39,20 @@ This project was developed by the **Agri Lens Team**, composed of 10 dedicated s
 
 * [Abdelaleem Mohamed](https://www.linkedin.com/in/abdelaleem-mohammed-914586223/)(Business Analyst)
 
-* [Ammar Yasser](https://github.com/Ammaryasser4)(Data Visualization)
+* [Ahmed Khalaf](https://www.linkedin.com/in/a-cr7-701b56268/)(AI Engineer)
 
-* [Amr Khaled](https://github.com/GOAT-AK)(Data Collecting and Preprocessing) 
+* [Zeyad Emad](https://www.linkedin.com/in/zeyademad/)(Front End Developer)
+
+* [Ahmed Zain](https://www.linkedin.com/in/ahmed-zain-738706315/)(Back End Developer)
+
+* [Ibrahim Saber](https://www.linkedin.com/in/ibrahim-saber-549723267/)(Back End Developer)
+
+* [Ahmed Ashraf](https://www.linkedin.com/in/ahmed-ashraf-630896309/)(Flutter Developer)
+
+* [Mohamed Tharwat](https://www.linkedin.com/in/mohamed-tharwat-5bbb05203/)(UI/UX Designer) 
 
 #### Special Thanks
+* [Mohamed Tharwat](https://www.linkedin.com/in/sohil-abuzeid-b8001a239/)(Back End Developer) **[External Backend Consultant]** 
 - **[External Hardware Consultant]** – Supported the design and implementation of the mechanical and sensor integration.  
 - **[External Backend Consultant]** – Assisted in backend architecture and Firebase integration.
 
