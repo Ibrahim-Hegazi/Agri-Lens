@@ -385,6 +385,19 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 ### 📱 Mobile App Screenshots
 
+<p float="left">
+  <img src="./UI/Flutter/Splash.png"/>
+  <img src="./UI/Flutter/Home.png"/>
+  <img src="./UI/Flutter/Plant%20Details.png"/>
+  <img src="./UI/Flutter/Report%20Details.png"/>
+  <img src="./UI/Flutter/Set%20Time.png"/>
+  <img src="./UI/Flutter/Scan.png"/>
+  <img src="./UI/Flutter/History.png"/>
+  <img src="./UI/Flutter/All%20Plants.png"/>
+  <img src="./UI/Flutter/After%20Scan%202.png"/>
+</p>
+
+
 
 ---
 
