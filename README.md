@@ -31,31 +31,30 @@ Agri Lens is a smart farming system that leverages embedded systems and AI to im
 This project was developed by the **Agri Lens Team**, composed of 10 dedicated students from the Computer Science Department at Mansoura University.
 
 #### Team Members
-* [Ibrahim Hegazi](https://www.linkedin.com/in/ibrahim-hegazi/)**[Team Leader and AI Engineer]**
+* [Ibrahim Hegazi](https://www.linkedin.com/in/ibrahim-hegazi/) **[Team Leader and AI Engineer]**
 
-* [Ibrahim Al Banawy](https://www.linkedin.com/in/ibrahim-al-banawy/)(Front End Developer and Hardware Expert)**[External Hardware Consultant]**
+* [Ibrahim Al Banawy](https://www.linkedin.com/in/ibrahim-al-banawy/) **[Front End Developer and Hardware Expert]**
 
-* [Basel Elazaly](https://www.linkedin.com/in/basel-elazaly-02b132220/)(Flutter Developer)**[External Hardware Consultant]**
+* [Basel Elazaly](https://www.linkedin.com/in/basel-elazaly-02b132220/) **[Flutter Developer]**
 
-* [Abdelaleem Mohamed](https://www.linkedin.com/in/abdelaleem-mohammed-914586223/)(Business Analyst)**[External Hardware Consultant]**
+* [Abdelaleem Mohamed](https://www.linkedin.com/in/abdelaleem-mohammed-914586223/) **[Business Analyst]**
 
-* [Ahmed Khalaf](https://www.linkedin.com/in/a-cr7-701b56268/)(AI Engineer)**[External Hardware Consultant]**
+* [Ahmed Khalaf](https://www.linkedin.com/in/a-cr7-701b56268/) **[AI Engineer]**
 
-* [Zeyad Emad](https://www.linkedin.com/in/zeyademad/)(Front End Developer)**[External Hardware Consultant]**
+* [Zeyad Emad](https://www.linkedin.com/in/zeyademad/) **[Front End Developer]**
 
-* [Ahmed Zain](https://www.linkedin.com/in/ahmed-zain-738706315/)(Back End Developer)**[External Hardware Consultant]**
+* [Ahmed Zain](https://www.linkedin.com/in/ahmed-zain-738706315/) **[Back End Developer]**
 
-* [Ibrahim Saber](https://www.linkedin.com/in/ibrahim-saber-549723267/)(Back End Developer)**[External Hardware Consultant]**
+* [Ibrahim Saber](https://www.linkedin.com/in/ibrahim-saber-549723267/) **[Back End Developer]**
 
-* [Ahmed Ashraf](https://www.linkedin.com/in/ahmed-ashraf-630896309/)(Flutter Developer)**[External Hardware Consultant]**
+* [Ahmed Ashraf](https://www.linkedin.com/in/ahmed-ashraf-630896309/) **[Flutter Developer]**
 
-* [Mohamed Tharwat](https://www.linkedin.com/in/mohamed-tharwat-5bbb05203/)(UI/UX Designer) **[External Hardware Consultant]**
+* [Mohamed Tharwat](https://www.linkedin.com/in/mohamed-tharwat-5bbb05203/) **[UI/UX Designer]**
 
 #### Special Thanks
-* [سُهَيْل مُحَمَّدُ](https://www.linkedin.com/in/sohil-abuzeid-b8001a239/)(Back End Developer)
-* [Moataz Arafa](https://www.linkedin.com/in/moataz-arafa-1ba0b2373/)(External Backend Consultant) 
-- **[External Hardware Consultant]** – Supported the design and implementation of the mechanical and sensor integration.  
-- **[External Backend Consultant]** – Assisted in backend architecture and Firebase integration.
+* [Sohil Abuzeid](https://www.linkedin.com/in/sohil-abuzeid-b8001a239/) **[External Back End Consultant]**
+* [Moataz Arafa](https://www.linkedin.com/in/moataz-arafa-1ba0b2373/) **[External Hardware Consultant]**
+
 
 ---
 
