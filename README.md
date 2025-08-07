@@ -390,6 +390,11 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 ### 🛠️ Hardware Images
 
+<p float="left">
+  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Camera%20and%20Stepper%20Motor%20Picture.jpeg" width="300" />
+  <img src="./AgriLens%20Documentations%20and%20Presentations/Media/hardware-setup2.png" width="300" />
+</p>
+
 
 
 ---
