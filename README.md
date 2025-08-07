@@ -379,6 +379,33 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 ## 🖼️ Gallery
 
-> 📸 Coming Soon: Final system images, AI prediction samples, mobile app screenshots, and hardware build process.
+> 📸 A look into the system — from AI predictions to mobile app views and hardware setup.
 
 ---
+
+### 📱 Mobile App Screenshots
+
+
+---
+
+### 🛠️ Hardware Setup
+
+![Hardware Build](./media/hardware-build.jpg)
+
+---
+
+### 🎥 Demo Videos
+
+#### 🔧 Hardware Demo
+📹 [Watch the hardware demo](./media/hardware-demo.mp4)
+
+[![Hardware Demo Thumbnail](./media/hardware-demo-thumbnail.png)](./media/hardware-demo.mp4)
+
+#### 📱 Flutter App Demo
+📹 [Watch the Flutter app demo](./media/flutter-demo.mp4)
+
+[![Flutter App Demo Thumbnail](./media/flutter-demo-thumbnail.png)](./media/flutter-demo.mp4)
+
+---
+
+
