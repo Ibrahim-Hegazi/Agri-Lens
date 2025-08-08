@@ -398,6 +398,12 @@ We are deeply thankful for the guidance and support provided by our supervisors,
   </tr>
 </table>
 
+---
+### 📱 Mobile App Screenshots
+
+<img src="./UI/Flutter/Splash.png" width="200"> <img src="./UI/Flutter/Home.png" width="200"> <img src="./UI/Flutter/All%20Plants.png" width="200">
+
+---
 
 ### 📱 Mobile App Screenshots
 
