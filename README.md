@@ -436,54 +436,39 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 📹 [Watch the Flutter app demo](./AgriLens%20Documentations%20and%20Presentations/Media/Flutter%20Demo.mp4)
 
 ---
-
-### 🎥 Demo Videos
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔧 Hardware Demo</h3>
-      <a href="./AgriLens%20Documentations%20and%20Presentations/Media/Hardware%20Demo.mp4">
-        <img src="https://img.icons8.com/color/96/000000/camera--v1.png" alt="Hardware Demo" width="80"/>
-        <br>
-        <strong>▶️ Watch Demo</strong>
-      </a>
-      <p>See our hardware components in action</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>📱 Flutter App Demo</h3>
-      <a href="./AgriLens%20Documentations%20and%20Presentations/Media/Flutter%20Demo.mp4">
-        <img src="https://img.icons8.com/color/96/000000/flutter.png" alt="Flutter Demo" width="80"/>
-        <br>
-        <strong>▶️ Watch Demo</strong>
-      </a>
-      <p>Explore the mobile application features</p>
-    </td>
-  </tr>
-</table>
-
----
-
-
-### 🎥 Demo Videos
+### 🎬 Project Highlights (Click to Watch Key Moments)
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🔧 Hardware Demo</h3>
-      <a href="./Media/Hardware_Demo.mp4">
-        <img src="./Media/Hardware_Preview.gif" alt="Hardware Demo Preview" style="width:100%; border-radius:8px;">
+    <!-- Video 1 -->
+    <td width="33.3%" align="center">
+      <a href="https://youtu.be/TjlbE4bKrVE?t=2s" target="_blank">
+        <img src="https://img.youtube.com/vi/TjlbE4bKrVE/mqdefault.jpg" alt="Hardware Demo Preview" style="border-radius:8px;width:100%;">
+        <br>
+        <strong>⚡ Hardware Teaser</strong>
       </a>
-      <p align="center"><a href="./Media/Hardware_Demo.mp4"><strong>▶️ Watch Full Video</strong></a></p>
+      <p>See the exciting reveal at 0:02</p>
     </td>
-    <td width="50%">
-      <h3 align="center">📱 Flutter App Demo</h3>
-      <a href="./Media/Flutter_Demo.mp4">
-        <img src="./Media/App_Preview.gif" alt="App Demo Preview" style="width:100%; border-radius:8px;">
+    
+    <!-- Video 2 -->
+    <td width="33.3%" align="center">
+      <a href="https://youtu.be/VIDEO_ID_2?t=2s" target="_blank">
+        <img src="https://img.youtube.com/vi/VIDEO_ID_2/mqdefault.jpg" alt="App Demo Preview" style="border-radius:8px;width:100%;">
+        <br>
+        <strong>📱 App Sneak Peek</strong>
       </a>
-      <p align="center"><a href="./Media/Flutter_Demo.mp4"><strong>▶️ Watch Full Video</strong></a></p>
+      <p>Catch the first look at 0:02</p>
+    </td>
+    
+    <!-- Video 3 -->
+    <td width="33.3%" align="center">
+      <a href="https://youtu.be/VIDEO_ID_3?t=2s" target="_blank">
+        <img src="https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg" alt="Feature Preview" style="border-radius:8px;width:100%;">
+        <br>
+        <strong>🌱 Plant Analysis</strong>
+      </a>
+      <p>Watch the magic happen at 0:02</p>
     </td>
   </tr>
 </table>
-
 
