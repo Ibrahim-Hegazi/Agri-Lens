@@ -425,18 +425,7 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 
 ---
-
-### 🎥 Demo Videos
-
-#### 🔧 Hardware Demo
-📹 [Watch the hardware demo](./AgriLens%20Documentations%20and%20Presentations/Media/Hardware%20Demo.mp4)
-
-
-#### 📱 Flutter App Demo
-📹 [Watch the Flutter app demo](./AgriLens%20Documentations%20and%20Presentations/Media/Flutter%20Demo.mp4)
-
----
-### 🎬 Project Highlights (Click to Watch Key Moments)
+### 🎬 Project Highlights/Demos
 
 <table>
   <tr>
@@ -447,7 +436,6 @@ We are deeply thankful for the guidance and support provided by our supervisors,
         <br>
         <strong>🌱 AgriLens Demo Video</strong>
       </a>
-      <p>See the exciting reveal at 0:02</p>
     </td>
     -
     <td width="33.3%" align="center">
@@ -456,7 +444,6 @@ We are deeply thankful for the guidance and support provided by our supervisors,
         <br>
         <strong>⚡ Mobile App Teaser</strong>
       </a>
-      <p>Catch the action at 0:02</p>
     </td>
 -
     <td width="33.3%" align="center">
