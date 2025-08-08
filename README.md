@@ -437,4 +437,29 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 ---
 
+### 🎥 Demo Videos
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔧 Hardware Demo</h3>
+      <a href="./AgriLens%20Documentations%20and%20Presentations/Media/Hardware%20Demo.mp4">
+        <img src="https://img.icons8.com/color/96/000000/camera--v1.png" alt="Hardware Demo" width="80"/>
+        <br>
+        <strong>▶️ Watch Demo</strong>
+      </a>
+      <p>See our hardware components in action</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📱 Flutter App Demo</h3>
+      <a href="./AgriLens%20Documentations%20and%20Presentations/Media/Flutter%20Demo.mp4">
+        <img src="https://img.icons8.com/color/96/000000/flutter.png" alt="Flutter Demo" width="80"/>
+        <br>
+        <strong>▶️ Watch Demo</strong>
+      </a>
+      <p>Explore the mobile application features</p>
+    </td>
+  </tr>
+</table>
+
 
