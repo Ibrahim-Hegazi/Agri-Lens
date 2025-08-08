@@ -449,25 +449,22 @@ We are deeply thankful for the guidance and support provided by our supervisors,
       </a>
       <p>See the exciting reveal at 0:02</p>
     </td>
-    ---
-    <!-- Video 2 - Shorts -->
+    -
     <td width="33.3%" align="center">
       <a href="https://youtube.com/shorts/5mLWLZqBq1s?t=2s" target="_blank">
         <img src="https://img.youtube.com/vi/5mLWLZqBq1s/mqdefault.jpg" alt="Quick Preview" style="border-radius:8px;width:100%;">
         <br>
-        <strong>⚡ 60-Second Teaser</strong>
+        <strong>⚡ Mobile App Teaser</strong>
       </a>
       <p>Catch the action at 0:02</p>
     </td>
-    ---
-    <!-- Video 3 - Hardware -->
+-
     <td width="33.3%" align="center">
       <a href="https://youtu.be/wC40h2LOxYQ?t=2s" target="_blank">
         <img src="https://img.youtube.com/vi/wC40h2LOxYQ/mqdefault.jpg" alt="Hardware Preview" style="border-radius:8px;width:100%;">
         <br>
         <strong>🔧 Hardware Deep Dive</strong>
       </a>
-      <p>Watch the magic at 0:02</p>
     </td>
   </tr>
 </table>
