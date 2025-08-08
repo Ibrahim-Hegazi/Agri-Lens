@@ -387,36 +387,19 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 <table>
   <tr>
-    <td><img src="./UI/Flutter/Splash.png" width="200"></td>
-    <td><img src="./UI/Flutter/Home.png" width="200"></td>
-    <td><img src="./UI/Flutter/All%20Plants.png" width="200"></td>
+    <td align="center"><img src="./UI/Flutter/Splash.png" width="200"></td>
+    <td align="center"><img src="./UI/Flutter/Home.png" width="200"></td>
+    <td align="center"><img src="./UI/Flutter/All%20Plants.png" width="200"></td>
+    <td align="center"><img src="./UI/Flutter/Plant%20Details.png" width="200"></td>
   </tr>
   <tr>
-    <td><img src="./UI/Flutter/Plant%20Details.png" width="200"></td>
-    <td><img src="./UI/Flutter/Report%20Details.png" width="200"></td>
-    <td><img src="./UI/Flutter/History.png" width="200"></td>
+    <td align="center"><img src="./UI/Flutter/Report%20Details.png" width="200"></td>
+    <td align="center"><img src="./UI/Flutter/History.png" width="200"></td>
+    <td align="center"><img src="./UI/Flutter/Set%20Time.png" width="200"></td>
+    <td align="center"><img src="./UI/Flutter/Scan.png" width="200"></td>
   </tr>
 </table>
 
----
-### 📱 Mobile App Screenshots
-
-<img src="./UI/Flutter/Splash.png" width="200"> <img src="./UI/Flutter/Home.png" width="200"> <img src="./UI/Flutter/All%20Plants.png" width="200"> <img src="./UI/Flutter/Plant%20Details.png" width="200"> <img src="./UI/Flutter/Report%20Details.png" width="200"> <img src="./UI/Flutter/History.png" width="200"> <img src="./UI/Flutter/Set%20Time.png" width="200"> <img src="./UI/Flutter/Scan.png" width="200"> <img src="./UI/Flutter/Scan%20Load.png" width="200"> <img src="./UI/Flutter/After%20Scan%202.png" width="200">
----
-### 📱 Mobile App Screenshots
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./UI/Flutter/Splash.png" width="200">
-  <img src="./UI/Flutter/Home.png" width="200">
-  <img src="./UI/Flutter/All%20Plants.png" width="200">
-  <img src="./UI/Flutter/Plant%20Details.png" width="200">
-  <img src="./UI/Flutter/Report%20Details.png" width="200">
-  <img src="./UI/Flutter/History.png" width="200">
-  <img src="./UI/Flutter/Set%20Time.png" width="200">
-  <img src="./UI/Flutter/Scan.png" width="200">
-  <img src="./UI/Flutter/Scan%20Load.png" width="200">
-  <img src="./UI/Flutter/After%20Scan%202.png" width="200">
-</div>
 
 ---
 
