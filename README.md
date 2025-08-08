@@ -462,4 +462,28 @@ We are deeply thankful for the guidance and support provided by our supervisors,
   </tr>
 </table>
 
+---
+
+
+### 🎥 Demo Videos
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔧 Hardware Demo</h3>
+      <a href="./Media/Hardware_Demo.mp4">
+        <img src="./Media/Hardware_Preview.gif" alt="Hardware Demo Preview" style="width:100%; border-radius:8px;">
+      </a>
+      <p align="center"><a href="./Media/Hardware_Demo.mp4"><strong>▶️ Watch Full Video</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Flutter App Demo</h3>
+      <a href="./Media/Flutter_Demo.mp4">
+        <img src="./Media/App_Preview.gif" alt="App Demo Preview" style="width:100%; border-radius:8px;">
+      </a>
+      <p align="center"><a href="./Media/Flutter_Demo.mp4"><strong>▶️ Watch Full Video</strong></a></p>
+    </td>
+  </tr>
+</table>
+
 
