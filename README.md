@@ -462,7 +462,7 @@ We are deeply thankful for the guidance and support provided by our supervisors,
     
     <!-- Video 3 -->
     <td width="33.3%" align="center">
-      <a href="https://youtu.be/VIDEO_ID_3?t=2s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wC40h2LOxYQ=2s" target="_blank">
         <img src="https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg" alt="Feature Preview" style="border-radius:8px;width:100%;">
         <br>
         <strong>⚡  Hardware Teaser</strong>
