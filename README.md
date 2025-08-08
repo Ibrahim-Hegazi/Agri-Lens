@@ -445,7 +445,7 @@ We are deeply thankful for the guidance and support provided by our supervisors,
       <a href="https://youtu.be/TjlbE4bKrVE?t=2s" target="_blank">
         <img src="https://img.youtube.com/vi/TjlbE4bKrVE/mqdefault.jpg" alt="Hardware Demo Preview" style="border-radius:8px;width:100%;">
         <br>
-        <strong>⚡ Hardware Teaser</strong>
+        <strong>🌱 AgriLens Demo Video</strong>
       </a>
       <p>See the exciting reveal at 0:02</p>
     </td>
@@ -465,7 +465,7 @@ We are deeply thankful for the guidance and support provided by our supervisors,
       <a href="https://youtu.be/VIDEO_ID_3?t=2s" target="_blank">
         <img src="https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg" alt="Feature Preview" style="border-radius:8px;width:100%;">
         <br>
-        <strong>🌱 Plant Analysis</strong>
+        <strong>⚡  Hardware Teaser</strong>
       </a>
       <p>Watch the magic happen at 0:02</p>
     </td>
