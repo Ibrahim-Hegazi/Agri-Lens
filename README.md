@@ -405,16 +405,22 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 ### 🛠️ Hardware Images
 
-<p float="left">
-  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Camera%20and%20Stepper%20Motor%20Picture.jpeg" width="300" height="250"/>
-  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/DHT%2011%20Picture.jpeg" width="300" height="250"/>
-  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/General%20Pic%201.jpeg" width="300" height="250"/>
-  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/General%20Pic%202.jpeg" width="300" height="250"/>
-  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/General%20Pic%203.jpeg" width="300" height="250"/>
-  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Main%20Control%20Unit%20Picture.jpeg" width="300" height="250"/>
-  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Power%20Supply%20Picture.jpeg" width="300" height="250"/>
-  <img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Soil%20Moisture%20Sensor%20Picture.jpeg" width="300" height="250"/>
-</p>
+### 🛠️ Hardware Images
+
+<table>
+  <tr>
+    <td align="center"><img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Camera%20and%20Stepper%20Motor%20Picture.jpeg" width="300" height="250"></td>
+    <td align="center"><img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/DHT%2011%20Picture.jpeg" width="300" height="250"></td>
+    <td align="center"><img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/General%20Pic%201.jpeg" width="300" height="250"></td>
+    <td align="center"><img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/General%20Pic%202.jpeg" width="300" height="250"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/General%20Pic%203.jpeg" width="300" height="250"></td>
+    <td align="center"><img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Main%20Control%20Unit%20Picture.jpeg" width="300" height="250"></td>
+    <td align="center"><img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Power%20Supply%20Picture.jpeg" width="300" height="250"></td>
+    <td align="center"><img src="./AgriLens%20Documentations%20and%20Presentations/Hardware%20Pictures/Soil%20Moisture%20Sensor%20Picture.jpeg" width="300" height="250"></td>
+  </tr>
+</table>
 
 
 
