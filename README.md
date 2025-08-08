@@ -379,9 +379,6 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 ## 🖼️ Gallery
 
-> 📸 A look into the system — from AI predictions to mobile app views and hardware setup.
-
----
 
 ### 📱 Mobile App Screenshots
 
@@ -402,8 +399,6 @@ We are deeply thankful for the guidance and support provided by our supervisors,
 
 
 ---
-
-### 🛠️ Hardware Images
 
 ### 🛠️ Hardware Images
 
