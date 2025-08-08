@@ -257,7 +257,7 @@ Build the app using Flutter, integrating with Firebase and an API for real-time 
 
 ---
 
-### 🌐 Frontend Introduction Page
+## 🌐 Frontend Introduction Page
 
 The frontend component of *Agri Lens* includes a simple and informative **React-based introduction page** that presents an overview of the system, highlights its features, and provides an entry point for users and stakeholders to explore the project.
 
