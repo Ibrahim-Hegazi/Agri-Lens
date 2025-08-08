@@ -449,7 +449,7 @@ We are deeply thankful for the guidance and support provided by our supervisors,
       </a>
       <p>See the exciting reveal at 0:02</p>
     </td>
-    
+    ---
     <!-- Video 2 - Shorts -->
     <td width="33.3%" align="center">
       <a href="https://youtube.com/shorts/5mLWLZqBq1s?t=2s" target="_blank">
@@ -459,7 +459,7 @@ We are deeply thankful for the guidance and support provided by our supervisors,
       </a>
       <p>Catch the action at 0:02</p>
     </td>
-    
+    ---
     <!-- Video 3 - Hardware -->
     <td width="33.3%" align="center">
       <a href="https://youtu.be/wC40h2LOxYQ?t=2s" target="_blank">
